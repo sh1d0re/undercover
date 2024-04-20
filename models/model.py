@@ -9,6 +9,9 @@ terminology=[
     [[5,"one","1"],[2,"1"]],
     [[5,"likes"],[1,"like"]],
     [[5,"your"],[2,"ur","yur","your"]],
-    [[5,"ok","sure"],[3,"ok","fine"]]]
+    [[5,"yours"],[3,"urs","yours"],[2,"urs"]],
+    [[5,"ok"],[2,"ok","fine"]],
+    [[5,"no"],[2,"nah","no"]]]
+
 # Swear / family friendly feature. Understand i gotta write some swearing under here. DO NOT TAKE ANY OFFENSE.
-maturity=[['fuck','f**k','f*ck'],'goddam','damn','darn','shit','shitting','bigass','ass','dick']
+maturity=[['fuck','frick','f**k','f*ck'],['goddam','godda*n',''],'damn','dam','darn','shit','shitting','bigass','ass','dick']
