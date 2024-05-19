@@ -27,6 +27,3 @@ terminology=[
     [[5,""],[2,""]],
     [[5,""],[2,""]],
     [[5,""],[2,""]]]
-
-# Swear / family friendly feature. Understand i gotta write some swearing under here. DO NOT TAKE ANY OFFENSE.
-maturity=[["fuck","frick","f**k","f*ck"],["goddam","godda*n","godd**n"],"damn","dam","darn","shit","shitting","bigass","ass","dick"]
